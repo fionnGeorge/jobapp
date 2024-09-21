@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>JobApp – Nebenjobs für Schüler und Studenten</title>
+<style>
+body {
+font-family: Arial, sans-serif;
+margin: 0;
+padding: 0;
+background-color: #f4f4f4;
+}
+
+header {
+background-color: #4CAF50;
+padding: 20px;
+text-align: center;
+color: white;
+}
+
+h1 {
+font-size: 2.5rem;
+}
+
+p {
+font-size: 1.2rem;
+color: #333;
+}
+
+.container {
+width: 80%;
+margin: auto;
+overflow: hidden;
+padding: 20px;
+}
+
+.cta-button {
+display: inline-block;
+padding: 10px 20px;
+background-color: #4CAF50;
+color: white;
+text-decoration: none;
+font-size: 1.2rem;
+border-radius: 5px;
+}
+
+.cta-button:hover {
+background-color: #45a049;
+}
+
+footer {
+background-color: #333;
+color: white;
+text-align: center;
+padding: 10px;
+position: fixed;
+width: 100%;
+bottom: 0;
+}
+</style>
+</head>
+<body>
+
+<header>
+<h1>JobApp</h1>
+<p>Finde schnell und einfach Nebenjobs in deiner Nähe!</p>
+</header>
+
+<div class="container">
+<h2>Verdiene jetzt dein eigenes Geld</h2>
+<p>JobApp ist die beste Lösung für Schüler und Studenten, um flexible Nebenjobs zu finden. Ob Rasenmähen, Umzugshelfer oder kleine Aufgaben – mit JobApp bist du auf der sicheren Seite!</p>
+<a href="#signup" class="cta-button">Jetzt registrieren</a>
+</div>
+
+<footer>
+<p>&copy; 2024 JobApp. Alle Rechte vorbehalten.</p>
+</footer>
+
+</body>
+</html>
